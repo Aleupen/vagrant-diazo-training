@@ -1,4 +1,3 @@
-
 Here are the instructions for setting up the virtual machine that we will work on. 
 
 
@@ -43,7 +42,7 @@ If you have the feeling that something has gone wrong and the installation has n
 
 In case everything went ok, you can now login to the VM
 
- $ vagnant ssh
+ $ vagrant ssh
 
 If you use Windows you'll have to login via putty (Install putty and follow the instructions her: http://vagrantup.com/v1/docs/getting-started/ssh.html)
 
